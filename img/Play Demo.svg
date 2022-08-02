@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="232" viewBox="0 0 272 232">
+    <defs>
+        <filter id="a8dmaq9t5a" x="0" y="0" width="232" height="232" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur stdDeviation="30" result="blur"/>
+            <feFlood flood-color="#df6951" flood-opacity=".302"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Play Demo">
+        <text data-name="Play Demo" transform="translate(163 87.5)" style="fill:#686d77;font-size:17px;font-family:Poppins-Medium,Poppins;font-weight:500"><tspan x="0" y="18">Play Demo</tspan></text>
+        <g data-name="Play button">
+            <g style="filter:url(#a8dmaq9t5a)">
+                <circle data-name="Ellipse 8" cx="26" cy="26" r="26" transform="translate(90 75)" style="fill:#df6951"/>
+            </g>
+            <path data-name="Polygon 1" d="M7.5 0 15 15H0z" transform="rotate(90 14.5 109.5)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>
